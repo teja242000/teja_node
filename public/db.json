@@ -1,0 +1,42 @@
+{"Top Universities in the world ": [
+    {
+    "Name of the University ": "Harvard University",
+    "Location": "United States of America",
+    "Date" : 1636,
+    "Rank": 1,
+    "Type of University" : "Private",
+    "Graduation rate "   : 97.1
+  
+  },
+  {
+    "Name of the University ": "MIT",
+    "Location": "United States of America",
+    "Date" : 1861,
+    "Rank": 2,
+    "Type of University" : "Private",
+    "Graduation rate "   : 95.4
+  },
+  {
+    "Name of the University ": "Standford University",
+    "Location": "United States of America",
+    "Date" : 1885,
+    "Rank": 3,
+    "Type of University" : "Private",
+    "Graduation rate "   : 94.3
+  },
+  {
+    "Name of the University ": "University of California Berkeley",
+    "Location": "United States of America",
+    "Date" : 1868,
+    "Rank": 4,
+    "Type of University" : "Public",
+    "Graduation rate "   : 92.5
+  },
+  {
+    "Name of the University ": "University of Oxford",
+    "Location": "United Kingdom",
+    "Date" : 1096,
+    "Rank": 5,
+    "Type of University" : "Private",
+    "Graduation rate "   : 95
+  }]}
